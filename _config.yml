@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jiaqi Wu
-#title: Senior Network System Administrator
+title: Postgraduate Student
 email: jiaqi.wu@studenti.polito.it
 website: https://github.com/elena-dodici
 # Dark Mode (true/false/never)
@@ -49,7 +49,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Jiaqi, a Computer Engineering graduate student at Polytechnic University of Turin, specializing in Artificial Intelligence and Data Analytics. 
   
-  I usually use Java and Javascript to develop and test in projects.While machine learning can be challenging, I enjoy the process of building and tuning models, almost like caring for a baby.
+  I usually use Java and Javascript to develop and test in projects. For machine learning ,it is a challenge for me, but I enjoy the time when I build model and tune it, it's like caring for a baby. No pain, No gain.
   
   In the end, welcome to my site! I'm thrilled that you're here :)!
  
@@ -72,11 +72,9 @@ content:
         quote: >
           An application to record all activity trails and registration functions, enabling stakeholders to manipulate data according to their roles.
         description: | # this will include new lines to allow paragraphs
-           We implement SonarCloud and designed hundreds of unit & integration tests to realize higher coverage ratio and eliminate code smells.
-          
-           Several functions(action, artifacts) in a GitHub and Docker implementation are used to enable efficient code deployment.        
-          
-           Skilled in both **Scrum, Waterfall** development process.
+           
+           We developed a web application from front-end to a back-end and optimized each role's interactions with the app, more test cases were used and more complexed cases were considered.I obtained new technology skills through this project such as SonarCloud, artifacts in github, Docker, etc.
+           
 
       - layout: top-middle
         title: Domain Disentanglement through natural language(<mark>Pytorch</mark>)
@@ -90,11 +88,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          We use the idea from GAN to disentangle domain-specific features successfully from images.
+          By utilizing the concept of GANs, we disentangled domain-specific and category-specific features from train domain and applied the resulting model to various other domains to address the task of domain adaptation.
         description: | # this will include new lines to allow paragraphs
-          During project, we reproduced Dom2Vec model to tackle . After that, we imported CLIP model to assist with feature disentanglement tasks, and fine-tuned it to improve its ability to perform downstream tasks.
-          
-          We are so pround of that a great improvement on accuracy is achived! 
+          During the project, we tackle domain shift issue by reproducing Dom2Vec model and leveraged CLIP model to assist with feature disentanglement tasks. Through fine-tuned CLIP, we were able to significantly improve the accuracy (>10%) of the model !
          
 
       - layout: top-middle
@@ -111,10 +107,9 @@ content:
         quote: >
           A project to predict the wind quality.
         description: | # this will include new lines to allow paragraphs
-          Employed various technologies, such as Regularization and normalization, to preprocess and analyze raw data.
+          It is my first machine learning project, where I learned the theoretical foundations of classic models and how to implement them from scratch.
+          In addition to modeling, also gained valuable experience in data preprocessing and model evaluation during this project.
           
-          Trained various models, including SVM, GMM, and Logistic Regression, with the most accurate model achieving 85% accuracy.
-
       - layout: top-middle
         title: Riddle Game(<mark>Node</mark>)
         link: github.com/elena-dodici/Riddle
@@ -127,9 +122,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is a web riddle game with gaming platform management.
+          A web riddle game with gaming platform management.
         description: | # this will include new lines to allow paragraphs
-          I constructed SQL databases for riddles and users with a suitable schema design. Data validation is used to ensure a ributness of database. I also built a RESTful APIs that served data to front-end(React) based on diverse requests.
+          It is my first personal project. I have designed the whole application from A to Z successfully. This project gave me a more specific understanding of web development, and provided me with clearer ideas for designing more complex applications in the future.
          
 
   - title: Education # Title for the section
@@ -142,7 +137,7 @@ content:
         quote: >
           The first Italian Engineering School, founded as a School for Engineers in 1859. This long ever-changing history has rated Politecnico among the top European technical Universities for education and research.
         description: | # this will include new lines to allow paragraphs       
-          When I was pursuing my second degree at Polito, I learned many useful skills especially a problem - solving idea which can tell me a way to tackle the real world issues.     
+          While pursuing my second degree at Polito, I learned many useful skills, including problem-solving strategies for real-world coding issues.     
 
     
       - layout: left
@@ -150,14 +145,14 @@ content:
         caption: 2015 - 2018
         sub_title: MSc Automotive Engineering
         description: | # this will include new lines to allow paragraphs
-          During my time at Polito I understand the essential role of teamwork in an international groups and I have learnt great communication and coordination skills which is useful when I was doing my off-campus internship.
+          During my time at Polito. I gained valuable teamwork skills in an international environment, which proved useful during my off-campus internship.
       
       - layout: left
         title: Hubei University of Automotive Technology, China
         caption: 2011 - 2015
         sub_title: BSc Automotive Engineering
         description: | # this will include new lines to allow paragraphs
-          I have received scholarship for three consecutive years, I thouroughly enjoyed the time when I was in university. I was a member in students' union, helped to organize several activities.
+          I have received scholarship for three consecutive years, I thouroughly enjoyed the time when I was in university. I was a member in students' union, organized several activities successfully.
 
    
     
