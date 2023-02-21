@@ -73,7 +73,7 @@ content:
           An application to record all activity trails and registration functions, enabling stakeholders to manipulate data according to their roles.
         description: | # this will include new lines to allow paragraphs
            
-           We developed a web application from front-end to a back-end and optimized each role's interactions with the app, more test cases were used and more complexed cases were considered.I obtained new technology skills through this project such as SonarCloud, artifacts in github, Docker, etc.
+           We developed a web application from front-end to a back-end and optimized each role's interactions with the app, more test cases were used and more complexed cases were considered. I obtained new technology skills through this project such as SonarCloud, artifacts in github, Docker, etc.
            
 
       - layout: top-middle
@@ -90,7 +90,7 @@ content:
         quote: >
           By utilizing the concept of GANs, we disentangled domain-specific and category-specific features from train domain and applied the resulting model to various other domains to address the task of domain adaptation.
         description: | # this will include new lines to allow paragraphs
-          During the project, we tackle domain shift issue by reproducing Dom2Vec model and leveraged CLIP model to assist with feature disentanglement tasks. Through fine-tuned CLIP, we were able to significantly improve the accuracy (>10%) of the model !
+          During the project, we tackled domain shift issue by reproducing Dom2Vec model and leveraged CLIP model to assist with feature disentanglement tasks. Through fine-tuned CLIP, we were able to significantly improve the accuracy (>10%) of the model !
          
 
       - layout: top-middle
@@ -111,7 +111,7 @@ content:
           In addition to modeling, also gained valuable experience in data preprocessing and model evaluation during this project.
           
       - layout: top-middle
-        title: Riddle Game(<mark>Node</mark>)
+        title: Riddle Game(<mark>React</mark> + <mark>JavaScript</mark>)
         link: github.com/elena-dodici/Riddle
         # link_text: Project Website
         additional_links:
